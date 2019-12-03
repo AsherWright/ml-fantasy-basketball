@@ -3,3 +3,4 @@
 src/.ipynb_checkpoints/
 processed/OCTs/player1.json
 data/test_input.xlsx
+*.json
