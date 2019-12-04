@@ -26,7 +26,7 @@ validation_proportion = 0.2
 (valid_X, valid_y), (test_X, test_y) = IAI.split_data(:regression, test_valid_X, test_valid_y, seed=1, train_proportion=validation_proportion/(1-train_proportion));
 
 # Validation parameters
-MAX_DEPTH = 7:10
+MAX_DEPTH = 9:12
 CP=[0.0001, 0.00001]
 
 # Default learner
