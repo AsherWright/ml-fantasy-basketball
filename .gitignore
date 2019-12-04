@@ -1,5 +1,6 @@
 .DS_Store
 data/**/*.csv
+processed/**/*.csv
 output/
 src/.ipynb_checkpoints/
 processed/OCTs/player1.json
