@@ -1,5 +1,6 @@
 .DS_Store
-*.csv
+data/**/*.csv
+output/
 src/.ipynb_checkpoints/
 processed/OCTs/player1.json
 data/test_input.xlsx
