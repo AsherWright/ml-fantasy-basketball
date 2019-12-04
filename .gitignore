@@ -5,3 +5,10 @@ src/.ipynb_checkpoints/
 processed/OCTs/player1.json
 data/test_input.xlsx
 *.json
+processed/lineups.csv
+processed/OCTs/oct_test_data.csv
+processed/OCTs/oct_train_data.csv
+processed/OCTs/oct_valid_data.csv
+processed/optimization_input.csv
+processed/results.csv
+src/player_match.csv
